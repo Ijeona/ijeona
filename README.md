@@ -7,7 +7,7 @@ I completed the She Codes Plus program in April 2023. It's a full-stack coding b
 During the course we had so much fun learning various languages such as HTML, CSS, Python, React, DRF, Restful APIs, JavaScript, and front-end deployment via Fly & Netlify. Most of the work on my Github had been completed during my time with the course. We had completed 6 coding projects in 6 months, during our time at with She Codes Aus. 
 
 🌱 I’m currently learning 🌱
-- Type Script
+- TypeScript
 - Google Project Management (just completed a course on Agile Methodology)
 - Google Cloud Fundementals
 - Salesforce Administrator 
